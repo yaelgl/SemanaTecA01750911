@@ -12,7 +12,7 @@ Clonar o descargar el repositorio en tu máquina:
 
 git clone <https://github.com/yaelgl/SemanaTecA01750911.git>
 
-cd <Herramientas_computacionales>
+
 
 
 Asegúrate de que el archivo bike_buyers.csv esté en la carpeta
